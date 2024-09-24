@@ -3,6 +3,7 @@ __MACOSX/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 SQL/
+TEMP/
 *.py[cod]
 *$py.class
 .DS_Store
