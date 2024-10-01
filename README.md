@@ -1,4 +1,4 @@
-# [E-commerce](https://github.com/iegorushkin/DA_portfolio/blob/main/e-commerce.ipynb)
+# [Разведочный анализ данных](https://github.com/iegorushkin/DA_portfolio/blob/main/EDA.ipynb)
 Для данных онлайн-магазина ([источник](https://karpov.courses/analytics)) были найдены ответы на следующие вопросы и реализованы следующие процедуры:
 1. Сколько пользователей совершили покупку только один раз?
 2. Сколько заказов в среднем не доставляется за месяц?
