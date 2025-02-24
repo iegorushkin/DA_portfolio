@@ -4,6 +4,7 @@ __MACOSX/
 __pycache__/
 SQL/
 TEMP/
+EDA-Copy.ipynb
 *.py[cod]
 *$py.class
 .DS_Store
